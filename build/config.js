@@ -31,7 +31,7 @@ module.exports = {
   },
 
   // 生产环境
-  publicPath: "http://webpack4demo.niuxiaokui.top/",
+  publicPath: "https://niuxiaokui.github.io/webpack4demo/",
   // 是否开启分析
   analyzer: false,
 };

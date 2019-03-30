@@ -1,6 +1,7 @@
 # 基于 Webpack4 和 Vue 的多页 + 单页混合应用脚手架
 
-效果预览[webpack4demo](http://webpack4demo.niuxiaokui.top/index.html)
+效果预览1[webpack4demo](http://blog.niuxiaokui.top/webpack4demo/)
+效果预览2[webpack4demo](http://webpack4demo.niuxiaokui.top/index.html)
 
 ## 命令
 
@@ -15,12 +16,13 @@ npm run build
 ```
 
 3. 生产环境打包并分析打包结果
+
 webpack 参数配置文件`build/config.js` analyzer 属性设置为 true ，然后打包
 ```
 npm run build
 ```
 
-4. 打包后服务器环境预览
+1. 打包后服务器环境预览
 ```
 npm run server
 ```
