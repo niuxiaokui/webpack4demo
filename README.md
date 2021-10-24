@@ -1,7 +1,6 @@
 # 基于 Webpack4 和 Vue 的多页 + 单页混合应用脚手架
 
-效果预览1[webpack4demo](http://blog.niuxiaokui.top/webpack4demo/)
-效果预览2[webpack4demo](http://webpack4demo.niuxiaokui.top/index.html)
+效果预览[webpack4demo](http://blog.niuxiaokui.top/webpack4demo/)
 
 ## 命令
 
